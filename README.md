@@ -20,4 +20,4 @@ Go製オープソースの2Dゲームエンジン「Ebiten」の学習を兼ね�
 
 ## 掲載について
 
-書籍「こんにちはPython」の著者である すがやみつる([@msugaya](https://twitter.com/msugaya) 様に掲載を快諾して頂いております。
+書籍「こんにちはPython」の著者である すがやみつる([@msugaya](https://twitter.com/msugaya)) 様に掲載を快諾して頂いております。
